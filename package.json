@@ -1,0 +1,15 @@
+{
+  "name": "mockoon-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "mockoon-cli start --data ./data.json --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.29.2",
+  "devDependencies": {
+    "@mockoon/cli": "^9.8.0"
+  }
+}
