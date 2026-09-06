@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "mockoon-cli start --data ./data.json"
+    "start": "mockoon-cli start --data ./data.json --port 10000"
   },
   "keywords": [],
   "author": "",
